@@ -1,16 +1,11 @@
 # To-Do List
 
-A simple to-do list with a drag-and-drop feature
+A simple to-do list with a drag-and-drop feature using React.
 
 ## Features
 
 - Add, delete and cross out chores
 - Drag-and-drop items to active/completed tasks
-
-## Technologies Used
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://react.dev/)
 
 ## Screenrecording
 
